@@ -1,0 +1,192 @@
+  Time: 2024-01-11 23:00
+ Temperature: 5.0°C
+ Humidity: 72.00
+
+  Time: 2024-01-11 22:00
+ Temperature: 5.1°C
+ Humidity: 71.00
+
+  Time: 2024-01-11 21:00
+ Temperature: 5.3°C
+ Humidity: 69.00
+
+  Time: 2024-01-11 20:00
+ Temperature: 5.3°C
+ Humidity: 69.00
+
+  Time: 2024-01-11 19:00
+ Temperature: 5.2°C
+ Humidity: 71.00
+
+  Time: 2024-01-11 18:00
+ Temperature: 5.1°C
+ Humidity: 73.00
+
+  Time: 2024-01-11 17:00
+ Temperature: 5.0°C
+ Humidity: 75.00
+
+  Time: 2024-01-11 16:00
+ Temperature: 4.7°C
+ Humidity: 82.00
+
+  Time: 2024-01-11 15:00
+ Temperature: 5.0°C
+ Humidity: 82.00
+
+  Time: 2024-01-11 14:00
+ Temperature: 5.3°C
+ Humidity: 75.00
+
+  Time: 2024-01-11 13:00
+ Temperature: 5.1°C
+ Humidity: 75.00
+
+  Time: 2024-01-11 12:00
+ Temperature: 4.3°C
+ Humidity: 72.00
+
+  Time: 2024-01-11 11:00
+ Temperature: 3.2°C
+ Humidity: 65.00
+
+  Time: 2024-01-11 10:00
+ Temperature: 1.9°C
+ Humidity: 65.00
+
+  Time: 2024-01-11 09:00
+ Temperature: 0.8°C
+ Humidity: 68.00
+
+  Time: 2024-01-11 08:00
+ Temperature: 0.4°C
+ Humidity: 69.00
+
+  Time: 2024-01-11 07:00
+ Temperature: 0.5°C
+ Humidity: 68.00
+
+  Time: 2024-01-11 06:00
+ Temperature: 0.5°C
+ Humidity: 68.00
+
+  Time: 2024-01-11 05:00
+ Temperature: 0.4°C
+ Humidity: 68.00
+
+  Time: 2024-01-11 04:00
+ Temperature: 0.4°C
+ Humidity: 68.00
+
+  Time: 2024-01-11 03:00
+ Temperature: 0.4°C
+ Humidity: 68.00
+
+  Time: 2024-01-11 02:00
+ Temperature: 0.5°C
+ Humidity: 67.00
+
+  Time: 2024-01-11 01:00
+ Temperature: 0.6°C
+ Humidity: 67.00
+
+  Time: 2024-01-11 00:00
+ Temperature: 0.8°C
+ Humidity: 65.00
+
+  Time: 2024-01-10 23:00
+ Temperature: 1.0°C
+ Humidity: 64.00
+
+  Time: 2024-01-10 22:00
+ Temperature: 1.2°C
+ Humidity: 63.00
+
+  Time: 2024-01-10 21:00
+ Temperature: 1.4°C
+ Humidity: 62.00
+
+  Time: 2024-01-10 20:00
+ Temperature: 1.7°C
+ Humidity: 61.00
+
+  Time: 2024-01-10 19:00
+ Temperature: 2.2°C
+ Humidity: 59.00
+
+  Time: 2024-01-10 18:00
+ Temperature: 2.4°C
+ Humidity: 58.00
+
+  Time: 2024-01-10 17:00
+ Temperature: 2.5°C
+ Humidity: 58.00
+
+  Time: 2024-01-10 16:00
+ Temperature: 3.2°C
+ Humidity: 55.00
+
+  Time: 2024-01-10 15:00
+ Temperature: 4.1°C
+ Humidity: 52.00
+
+  Time: 2024-01-10 14:00
+ Temperature: 4.5°C
+ Humidity: 51.00
+
+  Time: 2024-01-10 13:00
+ Temperature: 4.5°C
+ Humidity: 52.00
+
+  Time: 2024-01-10 12:00
+ Temperature: 3.9°C
+ Humidity: 53.00
+
+  Time: 2024-01-10 11:00
+ Temperature: 3.0°C
+ Humidity: 56.00
+
+  Time: 2024-01-10 10:00
+ Temperature: 2.0°C
+ Humidity: 59.00
+
+  Time: 2024-01-10 09:00
+ Temperature: 1.1°C
+ Humidity: 63.00
+
+  Time: 2024-01-10 08:00
+ Temperature: 0.8°C
+ Humidity: 64.00
+
+  Time: 2024-01-10 07:00
+ Temperature: 0.7°C
+ Humidity: 65.00
+
+  Time: 2024-01-10 06:00
+ Temperature: 1.0°C
+ Humidity: 69.00
+
+  Time: 2024-01-10 05:00
+ Temperature: 0.8°C
+ Humidity: 63.00
+
+  Time: 2024-01-10 04:00
+ Temperature: 1.0°C
+ Humidity: 61.00
+
+  Time: 2024-01-10 03:00
+ Temperature: 1.2°C
+ Humidity: 59.00
+
+  Time: 2024-01-10 02:00
+ Temperature: 1.5°C
+ Humidity: 58.00
+
+  Time: 2024-01-10 01:00
+ Temperature: 1.7°C
+ Humidity: 57.00
+
+  Time: 2024-01-10 00:00
+ Temperature: 1.9°C
+ Humidity: 56.00
+
